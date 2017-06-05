@@ -11,7 +11,6 @@ import util.PropsUtil;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-import java.sql.SQLRecoverableException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
@@ -141,7 +140,7 @@ public class DatabaseHelper {
     }
 
     public static <T> boolean updateEntity(Class<T> clazz , Map<String,Object> fieldMap, long id){
-        String sql = "update " + getTableName(clazz) + " set "
+        String sql = "update " + getTableName(clazz) + " set ";
         StringBuilder columns = new StringBuilder("(");
         StringBuilder values = new StringBuilder("(");
         for (String fileName:fieldMap.keySet()) {

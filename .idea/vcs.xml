@@ -2,8 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../../" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../../IDEA" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../../IDEA/chapter1/src/main/java/org/smart4j/chapter1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../IDEA/chapter1" vcs="Git" />
   </component>
 </project>
