@@ -25,4 +25,8 @@ public class CustomerServiceTest {
             System.out.println(customer.getId() + " == " + customer.getName());
         }
     }
+    @Test
+    public void insertCustomer(){
+        customerService.in
+    }
 }

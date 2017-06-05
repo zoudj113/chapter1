@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef30333e-d33d-4b8e-8463-975e2f29cedb" name="Default" comment="">
+    <list default="true" id="ef30333e-d33d-4b8e-8463-975e2f29cedb" name="Default" comment="test">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../IDEA/chapter1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../IDEA/chapter1/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../IDEA/chapter1/src/main/java/service/CustomerService.java" afterPath="$PROJECT_DIR$/../../IDEA/chapter1/src/main/java/service/CustomerService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../IDEA/chapter1/src/test/java/org/smart4j/test/CustomerServiceTest.java" afterPath="$PROJECT_DIR$/../../IDEA/chapter1/src/test/java/org/smart4j/test/CustomerServiceTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../../IDEA/chapter1/out/" />
     <ignored path="$PROJECT_DIR$/../../IDEA/chapter1/target/" />
@@ -69,20 +71,21 @@
       <file leaf-file-name="CustomerServiceTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../IDEA/chapter1/src/test/java/org/smart4j/test/CustomerServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="9" />
+            <state relative-caret-position="342">
+              <caret line="22" column="58" lean-forward="true" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
               <folding>
-                <element signature="imports" expanded="false" />
+                <element signature="e#653#654#0" expanded="true" />
+                <element signature="e#686#687#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DatabaseHelper.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DatabaseHelper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../IDEA/chapter1/src/main/java/helper/DatabaseHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="-491">
+              <caret line="82" column="9" lean-forward="true" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,28 +99,8 @@
             <state relative-caret-position="342">
               <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
-                <element signature="e#250#251#0" expanded="false" />
-                <element signature="e#275#276#0" expanded="false" />
-                <element signature="e#368#369#0" expanded="false" />
-                <element signature="e#395#396#0" expanded="false" />
-                <element signature="e#435#436#0" expanded="false" />
-                <element signature="e#467#468#0" expanded="false" />
-                <element signature="e#501#502#0" expanded="false" />
-                <element signature="e#531#532#0" expanded="false" />
-                <element signature="e#577#578#0" expanded="false" />
-                <element signature="e#615#616#0" expanded="false" />
-                <element signature="e#651#652#0" expanded="false" />
-                <element signature="e#683#684#0" expanded="false" />
-                <element signature="e#733#734#0" expanded="false" />
-                <element signature="e#775#776#0" expanded="false" />
-                <element signature="e#807#808#0" expanded="false" />
-                <element signature="e#835#836#0" expanded="false" />
-                <element signature="e#877#878#0" expanded="false" />
-                <element signature="e#911#912#0" expanded="false" />
-                <element signature="e#944#945#0" expanded="false" />
-                <element signature="e#973#974#0" expanded="false" />
-                <element signature="e#1017#1018#0" expanded="false" />
-                <element signature="e#1053#1054#0" expanded="false" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#337#338#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,21 +109,25 @@
       <file leaf-file-name="CustomerCreateServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../IDEA/chapter1/src/main/java/controller/CustomerCreateServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="380">
               <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerService.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CustomerService.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../IDEA/chapter1/src/main/java/service/CustomerService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+            <state relative-caret-position="152">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="false" />
-                <marker date="1496230312849" expanded="true" signature="511:533" ph="select * fro... customer" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#879#880#0" expanded="true" />
+                <element signature="e#903#904#0" expanded="true" />
+                <marker date="1496662763567" expanded="true" signature="380:402" ph="select * fro... customer" />
               </folding>
             </state>
           </provider>
@@ -192,12 +179,12 @@
         <option value="$PROJECT_DIR$/../../IDEA/chapter1/src/main/java/model/Customer.java" />
         <option value="$PROJECT_DIR$/../../IDEA/chapter1/src/main/java/controller/CustomerCreateServlet.java" />
         <option value="$PROJECT_DIR$/../../IDEA/chapter1/src/main/java/util/PropsUtil.java" />
-        <option value="$PROJECT_DIR$/../../IDEA/chapter1/src/test/java/org/smart4j/test/CustomerServiceTest.java" />
         <option value="$PROJECT_DIR$/../../IDEA/chapter1/src/main/resources/jdbc.properties" />
         <option value="$PROJECT_DIR$/../../IDEA/chapter1/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/../../IDEA/chapter1/pom.xml" />
-        <option value="$PROJECT_DIR$/../../IDEA/chapter1/src/main/java/service/CustomerService.java" />
         <option value="$PROJECT_DIR$/../../IDEA/chapter1/src/main/java/helper/DatabaseHelper.java" />
+        <option value="$PROJECT_DIR$/../../IDEA/chapter1/src/test/java/org/smart4j/test/CustomerServiceTest.java" />
+        <option value="$PROJECT_DIR$/../../IDEA/chapter1/src/main/java/service/CustomerService.java" />
       </list>
     </option>
   </component>
@@ -263,18 +250,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -291,28 +266,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -361,58 +314,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helper" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1132,7 +1033,7 @@
       <workItem from="1495851473485" duration="17789000" />
       <workItem from="1495880958629" duration="869000" />
       <workItem from="1496214367613" duration="14064000" />
-      <workItem from="1496661357385" duration="606000" />
+      <workItem from="1496661357385" duration="1439000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1496661944649</created>
@@ -1171,11 +1072,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33328000" />
+    <option name="totallyTimeSpent" value="34161000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1242,7 +1142,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1251,8 +1153,10 @@
         <state relative-caret-position="285">
           <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <marker date="1496230312849" expanded="true" signature="511:533" ph="select * fro... customer" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
+            <element signature="e#903#904#0" expanded="true" />
+            <marker date="1496662763567" expanded="true" signature="380:402" ph="select * fro... customer" />
           </folding>
         </state>
       </provider>
@@ -1280,7 +1184,8 @@
         <state relative-caret-position="209">
           <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1290,28 +1195,8 @@
         <state relative-caret-position="342">
           <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <element signature="e#250#251#0" expanded="false" />
-            <element signature="e#275#276#0" expanded="false" />
-            <element signature="e#368#369#0" expanded="false" />
-            <element signature="e#395#396#0" expanded="false" />
-            <element signature="e#435#436#0" expanded="false" />
-            <element signature="e#467#468#0" expanded="false" />
-            <element signature="e#501#502#0" expanded="false" />
-            <element signature="e#531#532#0" expanded="false" />
-            <element signature="e#577#578#0" expanded="false" />
-            <element signature="e#615#616#0" expanded="false" />
-            <element signature="e#651#652#0" expanded="false" />
-            <element signature="e#683#684#0" expanded="false" />
-            <element signature="e#733#734#0" expanded="false" />
-            <element signature="e#775#776#0" expanded="false" />
-            <element signature="e#807#808#0" expanded="false" />
-            <element signature="e#835#836#0" expanded="false" />
-            <element signature="e#877#878#0" expanded="false" />
-            <element signature="e#911#912#0" expanded="false" />
-            <element signature="e#944#945#0" expanded="false" />
-            <element signature="e#973#974#0" expanded="false" />
-            <element signature="e#1017#1018#0" expanded="false" />
-            <element signature="e#1053#1054#0" expanded="false" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1320,7 +1205,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1329,8 +1216,10 @@
         <state relative-caret-position="171">
           <caret line="11" column="44" lean-forward="false" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <marker date="1496230312849" expanded="true" signature="511:533" ph="select * fro... customer" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
+            <element signature="e#903#904#0" expanded="true" />
+            <marker date="1496662763567" expanded="true" signature="380:402" ph="select * fro... customer" />
           </folding>
         </state>
       </provider>
@@ -1384,7 +1273,8 @@
         <state relative-caret-position="304">
           <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1394,28 +1284,8 @@
         <state relative-caret-position="342">
           <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <element signature="e#250#251#0" expanded="false" />
-            <element signature="e#275#276#0" expanded="false" />
-            <element signature="e#368#369#0" expanded="false" />
-            <element signature="e#395#396#0" expanded="false" />
-            <element signature="e#435#436#0" expanded="false" />
-            <element signature="e#467#468#0" expanded="false" />
-            <element signature="e#501#502#0" expanded="false" />
-            <element signature="e#531#532#0" expanded="false" />
-            <element signature="e#577#578#0" expanded="false" />
-            <element signature="e#615#616#0" expanded="false" />
-            <element signature="e#651#652#0" expanded="false" />
-            <element signature="e#683#684#0" expanded="false" />
-            <element signature="e#733#734#0" expanded="false" />
-            <element signature="e#775#776#0" expanded="false" />
-            <element signature="e#807#808#0" expanded="false" />
-            <element signature="e#835#836#0" expanded="false" />
-            <element signature="e#877#878#0" expanded="false" />
-            <element signature="e#911#912#0" expanded="false" />
-            <element signature="e#944#945#0" expanded="false" />
-            <element signature="e#973#974#0" expanded="false" />
-            <element signature="e#1017#1018#0" expanded="false" />
-            <element signature="e#1053#1054#0" expanded="false" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1424,7 +1294,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1433,8 +1305,10 @@
         <state relative-caret-position="171">
           <caret line="11" column="44" lean-forward="false" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <marker date="1496230312849" expanded="true" signature="511:533" ph="select * fro... customer" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
+            <element signature="e#903#904#0" expanded="true" />
+            <marker date="1496662763567" expanded="true" signature="380:402" ph="select * fro... customer" />
           </folding>
         </state>
       </provider>
@@ -1496,7 +1370,8 @@
         <state relative-caret-position="209">
           <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1506,28 +1381,8 @@
         <state relative-caret-position="342">
           <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <element signature="e#250#251#0" expanded="false" />
-            <element signature="e#275#276#0" expanded="false" />
-            <element signature="e#368#369#0" expanded="false" />
-            <element signature="e#395#396#0" expanded="false" />
-            <element signature="e#435#436#0" expanded="false" />
-            <element signature="e#467#468#0" expanded="false" />
-            <element signature="e#501#502#0" expanded="false" />
-            <element signature="e#531#532#0" expanded="false" />
-            <element signature="e#577#578#0" expanded="false" />
-            <element signature="e#615#616#0" expanded="false" />
-            <element signature="e#651#652#0" expanded="false" />
-            <element signature="e#683#684#0" expanded="false" />
-            <element signature="e#733#734#0" expanded="false" />
-            <element signature="e#775#776#0" expanded="false" />
-            <element signature="e#807#808#0" expanded="false" />
-            <element signature="e#835#836#0" expanded="false" />
-            <element signature="e#877#878#0" expanded="false" />
-            <element signature="e#911#912#0" expanded="false" />
-            <element signature="e#944#945#0" expanded="false" />
-            <element signature="e#973#974#0" expanded="false" />
-            <element signature="e#1017#1018#0" expanded="false" />
-            <element signature="e#1053#1054#0" expanded="false" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1537,8 +1392,10 @@
         <state relative-caret-position="171">
           <caret line="11" column="44" lean-forward="false" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <marker date="1496230312849" expanded="true" signature="511:533" ph="select * fro... customer" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
+            <element signature="e#903#904#0" expanded="true" />
+            <marker date="1496662763567" expanded="true" signature="380:402" ph="select * fro... customer" />
           </folding>
         </state>
       </provider>
@@ -1575,7 +1432,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1675,72 +1534,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../IDEA/chapter1/src/main/java/model/Customer.java">
+    <entry file="file://$PROJECT_DIR$/../../IDEA/chapter1/src/test/java/org/smart4j/test/CustomerServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <caret line="22" column="58" lean-forward="true" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
           <folding>
-            <element signature="e#250#251#0" expanded="false" />
-            <element signature="e#275#276#0" expanded="false" />
-            <element signature="e#368#369#0" expanded="false" />
-            <element signature="e#395#396#0" expanded="false" />
-            <element signature="e#435#436#0" expanded="false" />
-            <element signature="e#467#468#0" expanded="false" />
-            <element signature="e#501#502#0" expanded="false" />
-            <element signature="e#531#532#0" expanded="false" />
-            <element signature="e#577#578#0" expanded="false" />
-            <element signature="e#615#616#0" expanded="false" />
-            <element signature="e#651#652#0" expanded="false" />
-            <element signature="e#683#684#0" expanded="false" />
-            <element signature="e#733#734#0" expanded="false" />
-            <element signature="e#775#776#0" expanded="false" />
-            <element signature="e#807#808#0" expanded="false" />
-            <element signature="e#835#836#0" expanded="false" />
-            <element signature="e#877#878#0" expanded="false" />
-            <element signature="e#911#912#0" expanded="false" />
-            <element signature="e#944#945#0" expanded="false" />
-            <element signature="e#973#974#0" expanded="false" />
-            <element signature="e#1017#1018#0" expanded="false" />
-            <element signature="e#1053#1054#0" expanded="false" />
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../IDEA/chapter1/src/main/java/controller/CustomerCreateServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="380">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../IDEA/chapter1/src/main/java/service/CustomerService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <marker date="1496230312849" expanded="true" signature="511:533" ph="select * fro... customer" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../IDEA/chapter1/src/test/java/org/smart4j/test/CustomerServiceTest.java">
+    <entry file="file://$PROJECT_DIR$/../../IDEA/chapter1/src/main/java/model/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="342">
+          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../IDEA/chapter1/src/main/java/helper/DatabaseHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="-491">
+          <caret line="82" column="9" lean-forward="true" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../IDEA/chapter1/src/main/java/service/CustomerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
+            <element signature="e#903#904#0" expanded="true" />
+            <marker date="1496662763567" expanded="true" signature="380:402" ph="select * fro... customer" />
           </folding>
         </state>
       </provider>
