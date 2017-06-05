@@ -1,0 +1,43 @@
+package service;
+
+import helper.DatabaseHelper;
+import model.Customer;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import util.PropsUtil;
+
+import java.sql.*;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Properties;
+
+/**
+ * Created by Administrator on 2017/5/27.
+ */
+public class CustomerService {
+    private Logger LOGGER = LoggerFactory.getLogger(CustomerService.class);
+
+
+    public List<Customer> getCustomerList() {
+        Connection conn = null;
+        String sql = "select * from customer";
+        List<Customer> customers =  DatabaseHelper.queryEntityList(Customer.class,sql,null);
+        return customers;
+    }
+
+    public Customer getCustomerById(long id) {
+        return null;
+    }
+
+    public boolean createCustomer(Customer customer) {
+        return false;
+    }
+
+    public boolean updateCustomer(Customer customer) {
+        return false;
+    }
+
+    public boolean deleteCustomer(long id) {
+        return false;
+    }
+}
